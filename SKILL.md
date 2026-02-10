@@ -15,6 +15,8 @@ description: Complete setup guide for running an AI-controlled Minecraft anarchy
 
 MineAI is an AI-controlled Minecraft anarchy server where an LLM (via OpenClaw) acts as a god-like entity with total control. Players interact with the AI using `/ai <message>` in-game. The AI can bless, curse, smite, reward, spawn mobs, change ranks, cause natural disasters, and more.
 
+This repo is can be cloned (as well as a copy of these insturctions) from https://github.com/0Mattias/MineAI.git, this is required to install the plugins outlined in these instructions.
+
 ### Architecture
 
 ```
