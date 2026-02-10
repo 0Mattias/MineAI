@@ -1,6 +1,6 @@
 # ⚡ MineAI
 
-## STOP! Give the SKILL.md file to OpenClaw and let it handle the setup. This is for INFO ONLY.
+## STOP! Give the [SKILL.md](https://github.com/0Mattias/MineAI/blob/main/SKILL.md) file to OpenClaw and let it handle the setup. This is for INFO ONLY.
 
 **An AI-controlled Minecraft server where an LLM acts as an all-powerful, unpredictable god.**
 
