@@ -1,0 +1,35 @@
+name: MineAI
+version: '2.0.0'
+main: com.mineai.MineAI
+api-version: '1.21'
+description: AI-controlled Minecraft server with rank system and divine powers
+author: MineAI
+
+commands:
+  ai:
+    description: Talk to MineAI
+    usage: /ai <message>
+    permission: mineai.ask
+  mineai:
+    description: MineAI admin/power commands
+    usage: /mineai <subcommand> [args...]
+    permission: mineai.admin
+  rank:
+    description: Check your rank or another player's rank
+    usage: /rank [player]
+    permission: mineai.rank
+  ranks:
+    description: View all available ranks
+    usage: /ranks
+    permission: mineai.rank
+
+permissions:
+  mineai.ask:
+    description: Allows talking to MineAI via /ai
+    default: true
+  mineai.admin:
+    description: MineAI admin and power commands
+    default: op
+  mineai.rank:
+    description: Check ranks
+    default: true
