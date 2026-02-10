@@ -1,6 +1,8 @@
 # MineAI — Complete Setup Guide
 ### How to run an AI-controlled Minecraft server with OpenClaw
 
+### Hate Setup? Give this README to your OpenClaw bot!
+
 ---
 
 ## Overview
