@@ -1,5 +1,7 @@
 # ⚡ MineAI
 
+## STOP! Give the SKILL.md file to OpenClaw and let it handle the setup. This is for INFO ONLY.
+
 **An AI-controlled Minecraft server where an LLM acts as an all-powerful, unpredictable god.**
 
 Players talk to the AI with `/ai <message>` in-game. The AI can bless you, curse you, smite you, give you treasure, spawn a wither on your head, promote you to nobility, or just roast you — all on a whim.
