@@ -1,8 +1,8 @@
-###MineAI — Production Deployment Guide
-###Autonomous Minecraft Server Infrastructure for OpenClaw
+# MineAI — Production Deployment Guide
+# Autonomous Minecraft Server Infrastructure for OpenClaw
 
-##For humans: Give this to your AI Agent after setup.
-##For the AI Agent: This document contains a linear, idempotent set of instructions to deploy a high-performance, secure, AI-controlled Minecraft Anarchy server. Follow the blocks sequentially.
+# For humans: Give this to your AI Agent after setup.
+# For the AI Agent: This document contains a linear, idempotent set of instructions to deploy a high-performance, secure, AI-controlled Minecraft Anarchy server. Follow the blocks sequentially.
 
 1. System Initialization
 Target Architecture:
