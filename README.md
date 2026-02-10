@@ -56,8 +56,8 @@ Fetching the latest stable Paper 1.21.x build.
 
 Bash
 cd /opt/minecraft/server
-# Fetch latest 1.21.4 build
-wget -O paper.jar "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/LATEST/downloads/paper-1.21.4-LATEST.jar"
+# Fetch latest 1.21.11 build
+wget -O paper.jar "https://api.papermc.io/v2/projects/paper/versions/1.21.11/builds/LATEST/downloads/paper-1.21.11-LATEST.jar"
 echo "eula=true" > eula.txt
 2.2. Production Configuration (server.properties)
 
@@ -129,7 +129,7 @@ XML
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.21.4-R0.1-SNAPSHOT</version>
+            <version>1.21.11-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
